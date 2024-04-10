@@ -46,19 +46,19 @@
  <a href="https://nareshchalla.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="naresh" />
  </a>
- <a href="(https://www.linkedin.com/in/naresh-challa-716777289)" target="_blank">
+ <a href="(https://www.linkedin.com/in/shashank kanchanapally)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="naresh"/>
  </a>
  <a href="https://dev.to/naresh" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="naresh" />
  </a>
- <a href="https://twitter.com/nareshchalla" target="_blank">
+ <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/naresh__2219" target="_blank">
+ <a href="https://instagram.com/kittu_shashank" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="naresh" />
  </a> 
- <a href="https://facebook.com/nareshktm" target="_blank">
+ <a href="https://facebook.com/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="naresh"  />
   </a> 
 </p>
@@ -73,12 +73,11 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  💙 &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: <a href="shashankkan685@gmailcom" type="mail">shashankkan685@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/shashankkanchanapally/issues)<br/><br/>
-👨‍🏫  &emsp;https://portfolio-s-three.vercel.app/
+ 💬 &emsp; Ask me about anything [here](https://github.com/shashankkanchanapally/)<br/><br/>
+👨‍🏫  &emsp;https://https://github.com/shashankkanchanapally/shashankkanchanapally-profile/
 
 </p>
 
 <br/>
 <br/>
 <br/>
-
