@@ -58,7 +58,7 @@
  <a href="https://instagram.com/kittu_shashank" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="naresh" />
  </a> 
- <a href="https://www.facebook.com/kanchanapallikittu.shashank//" target="_blank">
+ <a href="https://www.facebook.com/kanchanapallikittu.shashank" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="naresh"  />
   </a> 
 </p>
